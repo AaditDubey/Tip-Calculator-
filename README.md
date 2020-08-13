@@ -30,13 +30,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/lNtUIVwPwJ.gif title=MkWdkoix2Q.gif width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/lNtUIVwPwJ.gif title=MkWdkoix2Q.gif alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was trying to attain a symmetrical interface, but I could not.
 
 ## License
 
